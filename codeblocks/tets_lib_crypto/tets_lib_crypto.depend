@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1435150807 source:/home/user/src/kpin_crypto_dstu/test.c
+	<dlfcn.h>
+	"crypto.h"
+	<stdio.h>
+
+1435071331 /home/user/src/kpin_crypto_dstu/crypto.h
+	<stdint.h>
+	<stdbool.h>
+
